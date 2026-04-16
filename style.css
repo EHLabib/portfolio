@@ -9,7 +9,7 @@ html{
 scroll-behavior:smooth;
 }
 
-/* ✅ FIXED BACKGROUND (most reliable version) */
+
 body{
 background-color:#0a0a0a;
 color:#00ff9c;
@@ -19,7 +19,7 @@ background-position:center;
 background-repeat:no-repeat;
 }
 
-/* FIX: anchor scroll cut issue */
+
 section{
 scroll-margin-top:90px;
 }
